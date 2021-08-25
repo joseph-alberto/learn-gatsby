@@ -6,7 +6,7 @@ const AboutPage = () => {
         <main>
             <title>About Page</title>
             <h1>About Me!</h1>
-            <p>Hello there, I'm Joseph and this is my first Gatsby site!</p>
+            <p>Hello there, I'm Joseph and this is my first website build with Gatsby!</p>
             <Link to='/'>Home</Link>
         </main>
     )
